@@ -4,7 +4,6 @@ __pycache__/
 
 # Data
 DATA/
-datasets/
 
 # Checkpoints
 *.pth
@@ -22,6 +21,9 @@ wandb/
 # Environment
 .venv/
 venv/
+
+# Hidden Files
+.env
 
 # IDE
 .vscode/

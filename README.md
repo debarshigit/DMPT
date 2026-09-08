@@ -1,0 +1,1 @@
+#### Official code for DMPT: Distributional Multi-Prompt Tuning for Robust CLIP Adaptation under Limited Supervision

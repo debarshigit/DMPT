@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+DATA/
+datasets/
+
+# Checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Experiment outputs
+outputs/
+results/
+logs/
+runs/
+wandb/
+
+# Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
